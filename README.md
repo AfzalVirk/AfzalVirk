@@ -2,7 +2,7 @@
 
 I am a passionate **Junior Flutter Developer** and an aspiring software engineer, currently learning and building cool stuff with **Flutter**. I enjoy experimenting with different features and continuously enhancing my skills to build beautiful and functional apps. Flutter and Dart have become my tools of choice, and I'm diving deep into the world of mobile app development with every line of code I write.
 
-Currently, I'm pursuing my **Bachelor's in Computer Science** (BSCS) from **Bahria University Lahore Campus**, where I am not only learning theory but also applying it practically by working on projects, collaborating with peers, and constantly improving my coding skills. I am excited about what the future holds as I continue my journey with Flutter!
+I’m currently pursuing a BSCS at Bahria University Lahore. Alongside my studies, I’m gaining practical experience by working on projects, collaborating with peers, and improving my coding skills. I’m excited to continue growing as a Flutter Developer!
 
 🚀 **I'm working on:**
 - Building mobile applications with Flutter
