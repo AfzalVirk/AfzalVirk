@@ -19,11 +19,15 @@ I’m currently pursuing a BSCS at Bahria University Lahore. Alongside my studie
 ---
 
 ### Technologies & Tools 🚀
+- C++
 - Flutter
 - Dart
+- Firebase
 
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)  
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
 
 Feel free to connect with me and check out my repositories! 👇
 
