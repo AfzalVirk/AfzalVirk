@@ -1,36 +1,45 @@
-# Hi there, I'm AfzalVirk 👋
+Hi there, I'm AfzalVirk 👋
 
-I am a passionate **Junior Flutter Developer** and an aspiring software engineer, currently learning and building cool stuff with **Flutter**. I enjoy experimenting with different features and continuously enhancing my skills to build beautiful and functional apps. Flutter and Dart have become my tools of choice, and I'm diving deep into the world of mobile app development with every line of code I write.
+I am a passionate Flutter Developer who enjoys building modern, user-friendly mobile applications and turning ideas into real products. Over the past year, I've had the opportunity to work on real-world projects, collaborate with development teams, and gain hands-on experience with Flutter, Firebase, APIs, and modern app architecture.
 
-I’m currently pursuing a BSCS at Bahria University Lahore. Alongside my studies, I’m gaining practical experience by working on projects, collaborating with peers, and improving my coding skills. I’m excited to continue growing as a Flutter Developer!
+I'm always looking for opportunities to learn, grow, and contribute to meaningful projects. Recently, I worked with a US-based startup where I contributed to production-level Flutter applications while collaborating with an international team.
 
-🚀 **I'm working on:**
-- Building mobile applications with Flutter
-- Learning advanced Dart programming concepts
-- Exploring new packages and libraries for Flutter
-- Improving UI/UX design and development skills
+🚀 Currently
 
-💡 **What I'm passionate about:**
-- Building user-friendly mobile apps
-- Continuously learning and evolving as a developer
-- Creating impactful projects that make a difference
-- Contributing to open-source and collaborating with the developer community
+Building and improving Flutter applications
+Exploring scalable app architectures and best practices
+Learning more about AI-powered mobile solutions
+Looking for Flutter Developer opportunities where I can continue growing and creating impactful products
 
----
+💡 Interests
 
-### Technologies & Tools 🚀
-- C++
-- Flutter
-- Dart
-- Firebase
+Creating clean and responsive user interfaces
+Solving real-world problems through technology
+Learning new tools and technologies
+Collaborating with other developers
+Building apps that provide value to users
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
+Technologies & Tools 🚀
+Flutter
+Dart
+Firebase
+Riverpod
+GraphQL
+REST APIs
+Python
+C++
+Git & GitHub
+
+
+
+
+
+
+
+
+
+
 
 Feel free to connect with me and check out my repositories! 👇
-
----
 
 Thank you for visiting my profile! Let's code and grow together! ✨
