@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Dart+Developer;Clean+Architecture+Enthusiast;Open+to+Remote+Opportunities;Let%27s+build+something+great!&font=Fira+Code&center=true&width=560&height=50&color=02569B&vCenter=true&pause=1000)](https://git.io/typing-svg)
 
-![Email](https://img.shields.io/badge/vafzal0781%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://linkedin.com/in/muhammad-afzal-6b3a62351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AfzalVirk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -80,7 +79,6 @@ I'm currently **open to remote Flutter Developer roles** anywhere in the world �
 
 I'm actively looking for **remote Flutter Developer opportunities** — feel free to reach out!
 
-![Email](https://img.shields.io/badge/vafzal0781%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://linkedin.com/in/muhammad-afzal-6b3a62351"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 *Thank you for visiting my profile — let's code and grow together!* ✨
